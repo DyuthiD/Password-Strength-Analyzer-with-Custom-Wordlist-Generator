@@ -39,7 +39,6 @@ It helps users understand how predictable passwords can be guessed by attackers 
 
    ```bash
    git clone https://github.com/your-username/password-analyzer.git
-   cd password-analyzer
    ```
 
 2. **Install required libraries**
